@@ -1,4 +1,3 @@
-# ApplicationPatternTemplate
-This repository is a template for specifying applications for the MW SDN application layer
+# FirstPhoneBook (FPB)
 
-[Roadmap to Specification](../../issues/1)
+Please, follow this link for getting started with specifying the application [Roadmap to Specification](../../issues/1)
